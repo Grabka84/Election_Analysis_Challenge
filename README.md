@@ -28,3 +28,15 @@ The analysis of the election show that:
   - RD received 3.1% of the vote, with 11,606 votes
 5. The winner of the election was D. DeGette
 
+## Challenge Overview
+
+The election commission has requested some additional data to complete the audit:
+
+1. The voter turnout for each county
+2. The percentage of votes from each county out of the total count
+3. The county with the highest turnout
+
+Building on the module file, use for loops and conditional statements with membership and logical operators to find the requested results. Then, print the results to the command line and save them to the election_results.txt file.
+
+## Challenge Summary
+
