@@ -40,3 +40,14 @@ Building on the module file, use for loops and conditional statements with membe
 
 ## Challenge Summary
 
+The analysis of the election shows that:
+
+1. There were 3 counties included in the count:
+  - Jefferson County with 38,855 votes
+  - Denver County with 306,055 votes
+  - Arapahoe County with 24,801 votes 
+2. Out of a total of 369,711 votes:
+  - Jefferson County had 10.5% of total votes
+  - Denver County had 82.8% of total votes
+  - Arapahoe County had 6.7% of total votes
+3. The county with the highest turnout was Denver
