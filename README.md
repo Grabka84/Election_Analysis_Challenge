@@ -21,9 +21,10 @@ The analysis of the election show that:
   - C. Stockham
   - D. DeGette
   - R. Doane
-
-3&4. The candidate results were
+3. See #4
+4. The candidate results were
   - CS received 23.0% of the vote, with 85,213 votes
   - DG received 73.8% of the vote, with 272,892 votes
   - RD received 3.1% of the vote, with 11,606 votes
 5. The winner of the election was D. DeGette
+
